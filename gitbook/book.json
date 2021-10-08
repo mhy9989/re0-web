@@ -1,11 +1,11 @@
 {
     "title" : "RE0",
-    "author" : "EXP",
+    "author" : "mhy9989",
     "description" : "RE0：从零开始的异世界生活 （WEB版）",
     "language" : "en",
     "links" : {
         "sidebar" : {
-            "EXP's Github" : "https://github.com/lyy289065406/re0-web"
+            "mhy9989's Github" : "https://github.com/mhy9989/re0-web"
         }
     },
 
@@ -33,7 +33,6 @@
 
         "page-copyright": "添加页脚版权信息（含二维码，相对复杂）",
         "tbfed-pagefooter": "添加页脚版权信息（精简版）", 
-        "donate": "添加打赏系统", 
         "pageview-count": "添加阅读量计数系统（借用第三方接口 https://hitcounter.pythonanywhere.com/）",
         "tags": "添加文章标签：标签固定在文章页面顶部（一级标题下）",
         "rss": "RSS 插件",
@@ -73,7 +72,6 @@
         
         "-page-copyright",
         "tbfed-pagefooter",
-        "donate",
         "pageview-count",
         "tags",
         "rss", 
@@ -98,7 +96,7 @@
         },
         "sitemap-general": {
             "//": "所生成的站点地图路径前缀",
-            "prefix": "https://lyy289065406.github.io/re0-web/gitbook/book/"
+            "prefix": "https://git.mhy9989.top/re0-web/gitbook/book/"
         },
         "simple-page-toc": {
             "//": "所生成的章节目录最大深度",
@@ -110,13 +108,13 @@
             "bookmark": "/res/img/logo/favicon_48x48.ico",
             "appleTouch": "/res/img/logo/favicon_48x48.ico",
             "appleTouchMore": {
-                "64x64": "/res/img/logo/favicon_48x48.ico",
-                "128x128": "/res/img/logo/favicon_48x48.ico",
-                "512x512": "/res/img/logo/favicon_48x48.ico.png"
+                "64x64": "/res/img/logo/favicon_64x64.ico",
+                "128x128": "/res/img/logo/favicon_128x128.ico",
+                "512x512": "/res/img/logo/favicon_512x512.ico.png"
             }
         },
         "insert-logo": {
-            "url": "/res/img/logo/exp-blog - logo-min.png",
+            "url": "/res/img/logo/mhy9989-blog - logo-min.png",
             "style": "background: none; min-height: 30px; max-height: 50px"
         },
         "hide-element": {
@@ -155,19 +153,19 @@
             "weibo": true,
             "qq": true,
             "all": [
-                "douban", "google", "instapaper", "linkedin", "twitter", "messenger", "qzone", "viber", "whatsapp"
+                 "google", "instapaper", "linkedin", "twitter", "messenger", "qzone", "viber", "whatsapp"
             ]
         },
         "edit-link": {
-            "base": "https://github.com/lyy289065406/re0-web/edit/master/gitbook",
+            "base": "https://github.com/mhy9989/re0-web/edit/master/gitbook",
             "label": "EDIT THIS PAGE"
         },
         "page-copyright": {
           "description": "modified at",
-          "signature": "EXP",
+          "signature": "mhy9989",
           "wisdom": "Designer, Frontend Developer & overall web enthusiast",
           "format": "YYYY-MM-dd hh:mm:ss",
-          "copyright": "Copyright &#169; EXP",
+          "copyright": "Copyright &#169; mhy9989",
           "timeColor": "#666",
           "copyrightColor": "#666",
           "utcOffset": "8",
@@ -175,25 +173,17 @@
           "noPowered": false
         },
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy EXP 2020",
+            "copyright":"Copyright &copy mhy9989 2021",
             "modify_label": "最后修改时间 ： ",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
-        "donate": {
-            "title": "校对不易 (^_^) 谢予支持",
-            "button": "打赏",
-            "alipay": "res/img/donate/alipay.png",
-            "alipayText": "支付宝",
-            "wechat": "res/img/donate/wechat.png",
-            "wechatText": "微信"
         },
         "rss": {
             "title": "RE0 WEB",
             "description": "RE0：从零开始的异世界生活",
-            "author": "EXP",
-            "site_url": "https://lyy289065406.github.io/re0-web/gitbook/book/",
-            "feed_url": "https://lyy289065406.github.io/re0-web/gitbook/book/rss.xml",
-            "copyright": "EXP",
+            "author": "mhy9989",
+            "site_url": "https://git.mhy9989.top/re0-web/gitbook/book/",
+            "feed_url": "https://git.mhy9989.top/re0-web/gitbook/book/rss.xml",
+            "copyright": "mhy9989",
             "categories": [
                 "gitbook"
             ]
