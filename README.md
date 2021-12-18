@@ -46,12 +46,14 @@
 
 - [文库版图源](https://rezero.fandom.com/wiki/Re:Zero_kara_Hajimeru_Isekai_Seikatsu)
 - [日文原版（需翻墙）](http://ncode.syosetu.com/n2267be/)
+- 资源整合网盘：[爱丽丝的记事本](https://noire.cc:8888/s/djDhA?path=%2F)
 - 汉化整合（百度贴吧）： [【1.0】](https://tieba.baidu.com/p/4974060711) [【2.0】](https://tieba.baidu.com/p/7063765027)
 - [汉化整合（石墨文档）](https://shimo.im/docs/QDDPYPg8Y63xDXHX/read)
-- 汉化整合（巴哈姆特）： [【三四章】](https://home.gamer.com.tw/creationDetail.php?sn=3279407) [【五章】](https://home.gamer.com.tw/creationDetail.php?sn=3686795)
+- 汉化整合（巴哈姆特）： [【第三四章】](https://home.gamer.com.tw/creationDetail.php?sn=3279407) [【第五章】](https://home.gamer.com.tw/creationDetail.php?sn=3686795)
 - 汉化搬运（有道云）： [【上】](https://note.youdao.com/ynoteshare1/index.html?id=8a308a38db5ff96ec6e69d5807a917ba) [【下】](https://note.youdao.com/ynoteshare1/index.html?id=c79c8f8e467ac554d292d62a43dc8bf6&type=note#/&sfc=qqfriend)
-- [汉化搬运（真白萌）](https://masiro.moe/forum.php?mod=forumdisplay&fid=251)
-- 汉化搬运（中文 Wiki 论坛）：[【第七章】](https://rezero.fandom.com/zh/f?catId=4400000000000005617)
+- 汉化搬运（真白萌）：[【第六章】](https://masiro.moe/forum.php?mod=forumdisplay&fid=251)
+- 汉化搬运（中文 Wiki 论坛）：[【第七章】](https://rezero.fandom.com/zh/f?catId=4400000000000005617) `1 ~ 28`
+- 汉化搬运（Re0 小说站）：[【第七章】](https://ccxxxi.github.io/re0novel/#/) `29 ~ *`
 
 </details>
 
@@ -109,4 +111,18 @@
 <br/> 另由于 [`SUMMARY.md`](https://github.com/lyy289065406/re0-web/blob/master/gitbook/SUMMARY.md) 索引量较大，[`build.sh`](https://github.com/lyy289065406/re0-web/blob/master/build.sh)  或 [`build.ps1`](https://github.com/lyy289065406/re0-web/blob/master/build.ps1) 编译一次约需 3 小时，因此要谨慎发布变更
 
 </details>
+
+
+## 赞助途径
+
+<details>
+<summary>校对不易，谢予支持</summary>
+<br/>
+
+| 支付宝 | 微信 |
+|:---:|:---:|
+| ![](gitbook/res/img/donate/alipay.png) | ![](gitbook/res/img/donate/wechat.png) |
+
+</details>
+
 

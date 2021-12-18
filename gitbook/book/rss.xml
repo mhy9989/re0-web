@@ -4,7 +4,7 @@
         <description><![CDATA[RE0：从零开始的异世界生活]]></description>
         <link>https://git.mhy9989.top/re0-web/gitbook/book/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Dec 2021 03:59:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 07:39:52 GMT</lastBuildDate>
         <atom:link href="https://git.mhy9989.top/re0-web/gitbook/book/rss.xml" rel="self" type="application/rss+xml"/>
         <author><![CDATA[mhy9989]]></author>
         <copyright><![CDATA[mhy9989]]></copyright>
@@ -320,7 +320,7 @@
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『被称为《剑圣》的男人』]]></title>
+            <title><![CDATA[『被称为『剑圣』的男人』]]></title>
             <description><![CDATA[仔细想想，和假莎缇拉的接触大多是仰赖偶然。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter010/15.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter010/15.html</guid>
@@ -348,7 +348,7 @@
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『精灵术士的战斗』]]></title>
+            <title><![CDATA[『精灵术师的战斗』]]></title>
             <description><![CDATA[「——！」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter010/19.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter010/19.html</guid>
@@ -483,7 +483,7 @@
         </item>
         <item>
             <title><![CDATA[『相性不合的两个人』]]></title>
-            <description><![CDATA[「那么，卯日，我们走吧？」]]></description>
+            <description><![CDATA[「那么，巴鲁斯，我们走吧？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter020/12.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter020/12.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -768,7 +768,7 @@
         </item>
         <item>
             <title><![CDATA[『中毒症状』]]></title>
-            <description><![CDATA[——那是在魔兽的森林事件结束了之后，从昴和爱蜜莉娅约定的那天以来，三日之后的早上的事。]]></description>
+            <description><![CDATA[——那是在魔兽之森事件结束了之后，从昴和爱蜜莉娅约定的那天以来，三日之后的早上的事。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter021/01.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter021/01.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -812,7 +812,7 @@
         </item>
         <item>
             <title><![CDATA[『王都旅行计划』]]></title>
-            <description><![CDATA[【是要去王都吧？那么也带上我！】]]></description>
+            <description><![CDATA[「是要去王都吧？那么也带上我！」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/03.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/03.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -833,14 +833,14 @@
         </item>
         <item>
             <title><![CDATA[『危险的二人』]]></title>
-            <description><![CDATA[【话说回来，从值班室要怎么获得联络啊。有电话之类的吗？】]]></description>
+            <description><![CDATA[「话说回来，从值班室要怎么获得联络啊。有电话之类的吗？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/06.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/06.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『橙色的少女』]]></title>
-            <description><![CDATA[【别开玩笑了，女人！把你这漂亮的脸蛋打飞哦，哈啊！？】]]></description>
+            <description><![CDATA[「别开玩笑了，女人！把你这漂亮的脸蛋打飞哦，哈啊！？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/07.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/07.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -859,14 +859,14 @@
         </item>
         <item>
             <title><![CDATA[『汇合与告别』]]></title>
-            <description><![CDATA[【最初以为这种不干不净的地方还能有能看的混乱的地方，但是看习惯了话也没什么吸引目光的地方。也没法慰藉妾身的无聊】]]></description>
+            <description><![CDATA[「最初以为这种不干不净的地方还能有能看的混乱的地方，但是看习惯了话也没什么吸引目光的地方。也没法慰藉妾身的无聊」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/10.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/10.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『三个臭皮匠胜过诸葛亮』]]></title>
-            <description><![CDATA[【——诶诶！？留下看家！？】]]></description>
+            <description><![CDATA[「——诶诶！？留下看家！？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/11.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/11.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -880,7 +880,7 @@
         </item>
         <item>
             <title><![CDATA[『同郷』]]></title>
-            <description><![CDATA[【——哈】]]></description>
+            <description><![CDATA[「——哈」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/13.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/13.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -907,42 +907,42 @@
         </item>
         <item>
             <title><![CDATA[『傲慢的演说』]]></title>
-            <description><![CDATA[【无聊之上还无趣毫无技巧性地骂声。听的太多了连摇篮曲都不如】]]></description>
+            <description><![CDATA[「无聊之上还无趣毫无技巧性地骂声。听的太多了连摇篮曲都不如」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/17.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/17.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『強欲商人』]]></title>
-            <description><![CDATA[【若是期待我和之前两个人一样强烈什么的，对我家来说担子太重很困扰的啊。我不太怎么欢迎太强的所以，以【没个性为卖点】吧】]]></description>
+            <description><![CDATA[「若是期待我和之前两个人一样强烈什么的，对我家来说担子太重很困扰的啊。我不太怎么欢迎太强的所以，以『没个性为卖点』吧」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/18.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/18.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『银发魔女的愿望』]]></title>
-            <description><![CDATA[在走向中央的爱蜜莉娅右手和右脚同时伸出的瞬间——【这个我不做点什么不行了呐】昴这么想道。]]></description>
+            <description><![CDATA[在走向中央的爱蜜莉娅右手和右脚同时伸出的瞬间——『这个我不做点什么不行了呐』昴这么想道。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/19.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/19.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『自称骑士的菜月・昴』]]></title>
-            <description><![CDATA[撇开制止的爱蜜莉娅，菜月昴自报为【骑士】。]]></description>
+            <description><![CDATA[撇开制止的爱蜜莉娅，菜月昴自报为『骑士』。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/20.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/20.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『肤浅的代价和老人的意志』]]></title>
-            <description><![CDATA[【——！】]]></description>
+            <description><![CDATA[「——！」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/21.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/21.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『最后的主从』]]></title>
-            <description><![CDATA[【——不要动，莱因哈鲁特。要是做些奇怪的事情可落不得什么好下场】]]></description>
+            <description><![CDATA[「——不要动，莱因哈鲁特。要是做些奇怪的事情可落不得什么好下场」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/22.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/22.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -956,7 +956,7 @@
         </item>
         <item>
             <title><![CDATA[『决斗的始末』]]></title>
-            <description><![CDATA[【报告。现在，在练兵场骑士尤里乌斯和……爱蜜莉娅的从者，菜月昴阁下在用木剑进行模拟战的比试】]]></description>
+            <description><![CDATA[「报告。现在，在练兵场骑士尤里乌斯和……爱蜜莉娅的从者，菜月昴阁下在用木剑进行模拟战的比试」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/24.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/24.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -970,7 +970,7 @@
         </item>
         <item>
             <title><![CDATA[幕间 『骑士们的疑惑』]]></title>
-            <description><![CDATA[【那么，有什么要辩解的吗，骑士尤里乌斯】]]></description>
+            <description><![CDATA[「那么，有什么要辩解的吗，骑士尤里乌斯」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/85.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/85.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -991,14 +991,14 @@
         </item>
         <item>
             <title><![CDATA[『没用的上进心』]]></title>
-            <description><![CDATA[【喵来如此。所以收到的土特产是苹果喵】]]></description>
+            <description><![CDATA[「喵来如此。所以收到的土特产是苹果喵」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/28.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/28.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『动荡的局势』]]></title>
-            <description><![CDATA[【从这个样子看来，已经听说了吧】]]></description>
+            <description><![CDATA[「从这个样子看来，已经听说了吧」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/29.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/29.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1012,7 +1012,7 @@
         </item>
         <item>
             <title><![CDATA[『交渉x商談x断絶』]]></title>
-            <description><![CDATA[【这个村子里……没有借龙车的店。班车现在也不会来……那也就是】]]></description>
+            <description><![CDATA[「这个村子里……没有借龙车的店。班车现在也不会来……那也就是」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/31.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/31.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1068,7 +1068,7 @@
         </item>
         <item>
             <title><![CDATA[『奇跡』]]></title>
-            <description><![CDATA[【杀了你，杀了你，杀了你，杀了你，杀了你，杀了你，杀了你】]]></description>
+            <description><![CDATA[「杀了你，杀了你，杀了你，杀了你，杀了你，杀了你，杀了你」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/39.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/39.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1082,7 +1082,7 @@
         </item>
         <item>
             <title><![CDATA[『幼稚的交涉』]]></title>
-            <description><![CDATA[这次的【死亡回归】现象，对昴来说正好已经是第三次了。]]></description>
+            <description><![CDATA[这次的『死亡回归』现象，对昴来说正好已经是第三次了。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/41.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/41.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1103,14 +1103,14 @@
         </item>
         <item>
             <title><![CDATA[『再次从王都出发』]]></title>
-            <description><![CDATA[与普莉希拉．巴利埃尔的谈判也以决裂作为结束，这次昴所有能选择的道路都崩溃了。]]></description>
+            <description><![CDATA[与普莉希拉．跋利耶尔的谈判也以决裂作为结束，这次昴所有能选择的道路都崩溃了。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/44.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/44.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『遭遇』]]></title>
-            <description><![CDATA[对于昴所提出的【商谈】，行商人们最初面面相觑然后笑了。]]></description>
+            <description><![CDATA[对于昴所提出的『商谈』，行商人们最初面面相觑然后笑了。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/45.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/45.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1186,14 +1186,14 @@
         </item>
         <item>
             <title><![CDATA[『决战前夜』]]></title>
-            <description><![CDATA[以库珥修・卡尔斯腾公爵为首，这次的【白鲸讨伐】的远征正在进行中。]]></description>
+            <description><![CDATA[以库珥修・卡尔斯腾公爵为首，这次的『白鲸讨伐』的远征正在进行中。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/56.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/56.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『白鯨攻略戦』]]></title>
-            <description><![CDATA[【避风的加护】的效果，不管感受几次都觉得很不自然。]]></description>
+            <description><![CDATA[『避风的加护』的效果，不管感受几次都觉得很不自然。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/57.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/57.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1235,7 +1235,7 @@
         </item>
         <item>
             <title><![CDATA[『怠惰一闪』]]></title>
-            <description><![CDATA[——“猴子也能懂的魔女教狩猎”，菜月・昴以此为题开始了作战会议。]]></description>
+            <description><![CDATA[——「猴子也能懂的魔女教狩猎」，菜月・昴以此为题开始了作战会议。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/63.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/63.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1284,14 +1284,14 @@
         </item>
         <item>
             <title><![CDATA[『回归的意义』]]></title>
-            <description><![CDATA[【——为什么，回来了呢？】]]></description>
+            <description><![CDATA[「——为什么，回来了呢？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/70.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/70.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『禁书库的少女』]]></title>
-            <description><![CDATA[「呐，昴。“偶肥来啦” 是什么意思？」]]></description>
+            <description><![CDATA[「呐，昴。「偶肥来啦」 是什么意思？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/71.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/71.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1326,7 +1326,7 @@
         </item>
         <item>
             <title><![CDATA[『幕后舞台×阴谋诡计×拉钩约定』]]></title>
-            <description><![CDATA[──将时间稍微回溯到前往梅扎斯领地途中的作战会议场面。]]></description>
+            <description><![CDATA[──将时间稍微回溯到前往梅札斯领地途中的作战会议场面。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/76.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/76.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1361,7 +1361,7 @@
         </item>
         <item>
             <title><![CDATA[『追迹』]]></title>
-            <description><![CDATA[在贝特鲁吉乌斯的墓碑前一阵喘息，昴将目光看向远处，掠过了这战斗过的痕迹。]]></description>
+            <description><![CDATA[在培提尔其乌斯的墓碑前一阵喘息，昴将目光看向远处，掠过了这战斗过的痕迹。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/81.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter030/81.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1541,7 +1541,7 @@
         </item>
         <item>
             <title><![CDATA[『回答疑问』]]></title>
-            <description><![CDATA[“击落白鲸，并进一步击退了盯上宅邸的魔女教大罪司教。又和同为王选候补的库珥修大人缔结了同盟，在前面所说的这几场战役中皆是战绩彪炳——嗯哈。”]]></description>
+            <description><![CDATA[「击落白鲸，并进一步击退了盯上宅邸的魔女教大罪司教。又和同为王选候补的库珥修大人缔结了同盟，在前面所说的这几场战役中皆是战绩彪炳——嗯哈。」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/14.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/14.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1562,7 +1562,7 @@
         </item>
         <item>
             <title><![CDATA[『恋爱话题』]]></title>
-            <description><![CDATA[[喔、贤先生、大早上就出来逛真少见。终于被炒鱿鱼了嘛？]]]></description>
+            <description><![CDATA[「喔、贤先生、大早上就出来逛真少见。终于被炒鱿鱼了嘛？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/17.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/17.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1660,7 +1660,7 @@
         </item>
         <item>
             <title><![CDATA[『妹抖・妹抖・妹抖』]]></title>
-            <description><![CDATA[—对昴来说，这已经是第二次离开【圣域】回到罗兹瓦尔宅邸了。]]></description>
+            <description><![CDATA[—对昴来说，这已经是第二次离开『圣域』回到罗兹瓦尔宅邸了。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/31.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/31.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1758,7 +1758,7 @@
         </item>
         <item>
             <title><![CDATA[『茶会的条件』]]></title>
-            <description><![CDATA[“——回来的”]]></description>
+            <description><![CDATA[「——回来的」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/45.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/45.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1772,7 +1772,7 @@
         </item>
         <item>
             <title><![CDATA[『相性不好的对手』]]></title>
-            <description><![CDATA[“说是和我的相性不好，在这种状态下还能够和她相性好的家伙根本不会存在啊！”]]></description>
+            <description><![CDATA[「说是和我的相性不好，在这种状态下还能够和她相性好的家伙根本不会存在啊！」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/47.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/47.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1814,7 +1814,7 @@
         </item>
         <item>
             <title><![CDATA[『重叠的疑问』]]></title>
-            <description><![CDATA[离开墓室回到琉兹家中，关于【试练】的讨论正在进行。]]></description>
+            <description><![CDATA[离开墓室回到琉兹家中，关于『试炼』的讨论正在进行。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/53.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/53.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1856,7 +1856,7 @@
         </item>
         <item>
             <title><![CDATA[『甜蜜的烤点心与并不甜蜜的话语』]]></title>
-            <description><![CDATA[“……您回来得，还真是早呐。”]]></description>
+            <description><![CDATA[「……您回来得，还真是早呐。」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/59.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/59.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1982,7 +1982,7 @@
         </item>
         <item>
             <title><![CDATA[『≠莎缇拉』]]></title>
-            <description><![CDATA[——这样直接面对【魔女】本人，对昴来说还是初次体验。]]></description>
+            <description><![CDATA[——这样直接面对『魔女』本人，对昴来说还是初次体验。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/76.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/76.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -1996,7 +1996,7 @@
         </item>
         <item>
             <title><![CDATA[『欲哭的声音』]]></title>
-            <description><![CDATA[【这样缩成一团，固执别扭起来……不简直，就像是小孩子一样吗。心痛得，都看不下了啊，哈】]]></description>
+            <description><![CDATA[「这样缩成一团，固执别扭起来……不简直，就像是小孩子一样吗。心痛得，都看不下了啊，哈」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/78.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/78.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2031,7 +2031,7 @@
         </item>
         <item>
             <title><![CDATA[『尔虞我诈』]]></title>
-            <description><![CDATA[“果然，不是错觉或者弄错了什么……”]]></description>
+            <description><![CDATA[「果然，不是错觉或者弄错了什么……」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/82.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/82.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2052,7 +2052,7 @@
         </item>
         <item>
             <title><![CDATA[『用话语、用心意、用拳头』]]></title>
-            <description><![CDATA[“——诶？”]]></description>
+            <description><![CDATA[「——诶？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/85.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/85.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2073,7 +2073,7 @@
         </item>
         <item>
             <title><![CDATA[『加菲尔的思绪』]]></title>
-            <description><![CDATA[“那么，菜月先生，你是不是顺利缔结契约了呢？”]]></description>
+            <description><![CDATA[「那么，菜月先生，你是不是顺利缔结契约了呢？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/88.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/88.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2101,14 +2101,14 @@
         </item>
         <item>
             <title><![CDATA[『谎言』]]></title>
-            <description><![CDATA[“像这样和你说话，感觉也是好久以前的事情了呐。”]]></description>
+            <description><![CDATA[「像这样和你说话，感觉也是好久以前的事情了呐。」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/92.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/92.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『相互的提案』]]></title>
-            <description><![CDATA[“如果咱切断了与那孩子的契约，之后的事情能够交给（拜托）你吗？”]]></description>
+            <description><![CDATA[「如果咱切断了与那孩子的契约，之后的事情能够交给（拜托）你吗？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/93.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/93.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2122,21 +2122,21 @@
         </item>
         <item>
             <title><![CDATA[『西格玛（∑）』]]></title>
-            <description><![CDATA[“巴鲁斯，你那诡计的准备情况怎么样了？”]]></description>
+            <description><![CDATA[「巴鲁斯，你那诡计的准备情况怎么样了？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/95.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/95.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『双唇红染』]]></title>
-            <description><![CDATA[“加菲尔看到的，过去的碎片……”]]></description>
+            <description><![CDATA[「加菲尔看到的，过去的碎片……」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/96.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/96.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『黎明之前』]]></title>
-            <description><![CDATA[“找个地方随便坐吧。不论谈多久，还是应该先坐下来再开始谈话不——是吗。”]]></description>
+            <description><![CDATA[「找个地方随便坐吧。不论谈多久，还是应该先坐下来再开始谈话不——是吗。」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/97.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/97.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2178,14 +2178,14 @@
         </item>
         <item>
             <title><![CDATA[『圣域的起始与崩坏的开端』]]></title>
-            <description><![CDATA[“尽管只是看到了碎片一般的记忆，但老身还是靠自己的理解整理了一下时间顺序。老身认为那些记忆应该就是这样的流向（发展）……”]]></description>
+            <description><![CDATA[「尽管只是看到了碎片一般的记忆，但老身还是靠自己的理解整理了一下时间顺序。老身认为那些记忆应该就是这样的流向（发展）……」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/103.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/103.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『θ其二』]]></title>
-            <description><![CDATA[“以上这些就是，老身在墓室里看到的，所有过去的碎片啊。”]]></description>
+            <description><![CDATA[「以上这些就是，老身在墓室里看到的，所有过去的碎片啊。」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/104.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/104.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2255,7 +2255,7 @@
         </item>
         <item>
             <title><![CDATA[『将谎言化为祈愿』]]></title>
-            <description><![CDATA[地龙的嘶鸣响彻天际，仿佛是在向【圣域】的天空宣告战斗的结束。]]></description>
+            <description><![CDATA[地龙的嘶鸣响彻天际，仿佛是在向『圣域』的天空宣告战斗的结束。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/114.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/114.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2269,7 +2269,7 @@
         </item>
         <item>
             <title><![CDATA[『祖母、母亲、姐姐、孙子、儿子、弟弟』]]></title>
-            <description><![CDATA[”虽然在爱蜜莉娅大人变得干劲满满的情况下（这么说）很抱歉，能让卡菲先进墓所么？“]]></description>
+            <description><![CDATA[「虽然在爱蜜莉娅大人变得干劲满满的情况下（这么说）很抱歉，能让加菲尔先进墓所么？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/116.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/116.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2296,7 +2296,7 @@
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『艾利奥尔大森林的永久冻土』]]></title>
+            <title><![CDATA[『艾力欧尔大森林的永久冻土』]]></title>
             <description><![CDATA[——那个地方已经，变得让人想不起原来的样子了。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/120.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/120.html</guid>
@@ -2318,7 +2318,7 @@
         </item>
         <item>
             <title><![CDATA[『猎肠者VS圣域之盾』]]></title>
-            <description><![CDATA[“明白了吗？宅邸里需要救助的对象一共四人。全员都是女孩子。”]]></description>
+            <description><![CDATA[「明白了吗？宅邸里需要救助的对象一共四人。全员都是女孩子。」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/123-a.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/123-a.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2339,7 +2339,7 @@
         </item>
         <item>
             <title><![CDATA[『罗兹瓦尔宅邸攻防战』]]></title>
-            <description><![CDATA[“——多娜!!”（译注：这是土咒文，不是在喊强欲魔女）]]></description>
+            <description><![CDATA[「——多娜!!」（译注：这是土咒文，不是在喊强欲魔女）]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/125-a.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/125-a.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2409,7 +2409,7 @@
         </item>
         <item>
             <title><![CDATA[幕間 『各自的妥协』]]></title>
-            <description><![CDATA[“好，完成了！”]]></description>
+            <description><![CDATA[「好，完成了！」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/133.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter040/133.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2541,7 +2541,7 @@
         </item>
         <item>
             <title><![CDATA[『旅行途中』]]></title>
-            <description><![CDATA[结果，昴一行人前往普利斯特拉的实际时间比预定晚了三天。]]></description>
+            <description><![CDATA[结果，昴一行人前往普利斯提拉的实际时间比预定晚了三天。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/04.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/04.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2583,7 +2583,7 @@
         </item>
         <item>
             <title><![CDATA[『水之都市的归途』]]></title>
-            <description><![CDATA[爱蜜莉娅与齐力塔卡・缪兹之间的商谈的进展意外地平稳。]]></description>
+            <description><![CDATA[爱蜜莉娅与桐鹰・缪兹之间的商谈的进展意外地平稳。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/10.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/10.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2660,7 +2660,7 @@
         </item>
         <item>
             <title><![CDATA[『最佳的解法』]]></title>
-            <description><![CDATA[--发动完第二次的「死亡回归」，昴全身都被前所未有的疲劳感给打垮了。]]></description>
+            <description><![CDATA[--发动完第二次的『死亡回归』，昴全身都被前所未有的疲劳感给打垮了。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/21.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/21.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2737,7 +2737,7 @@
         </item>
         <item>
             <title><![CDATA[『都市厅舍攻略会议』]]></title>
-            <description><![CDATA[『啊啊真是的！治愈魔法没有效果！只能用这么原始的方法来进行治疗还真是……！』]]></description>
+            <description><![CDATA[「啊啊真是的！治愈魔法没有效果！只能用这么原始的方法来进行治疗还真是……！」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/32.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/32.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2898,7 +2898,7 @@
         </item>
         <item>
             <title><![CDATA[『斗神的挑战者』]]></title>
-            <description><![CDATA[――斗神库鲁刚的传说、在波拉奇亚帝国广为流传。]]></description>
+            <description><![CDATA[――斗神库鲁刚的传说、在佛拉基亚帝国广为流传。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/55.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/55.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -2926,7 +2926,7 @@
         </item>
         <item>
             <title><![CDATA[『雷格鲁斯・柯尼亚斯』]]></title>
-            <description><![CDATA[这不可能这不可能这不可能。到底怎么回事啊，莫名其妙啊。为什么我会遭到这种对待啊。把我当成谁了啊。我可是大罪司教『强欲』雷格鲁斯・科尔尼亚斯。这个世界上最完满的存在！最为坚定确立的个人！无论身心都毫无动摇因素的存在！　本应如此，为什么我非得遭到这种对待不可啊！开玩笑吧。别开玩笑了。无论哪个家伙都把如此不可理喻的事理所当然地接收着绝对有鬼了不是吗。那个男的也好那个女的也好那个骑士也好我稍微留了点情就恣意妄为，明明我要是认真起来的话他们一开始就粉身碎骨了却还在不自量力不是吗？在我看来为这样滑稽的误解感到羞耻都不值得所以说真讨厌啊和别人扯上关系什么的！烦人的庸俗的客气的可恶的可憎的淫贱的肤浅的愚蠢之徒们。我至今为止都做得这么好啊。多少年来数十年来一百多年来一直如此，做着比谁都忠诚的大罪司教。我最初被魔女因子选中得到这权能时，就把明明赚钱不多还酗酒的父亲和喋喋不休地每天每夜满腹牢骚的母亲和总是对我应得的一份虎视眈眈垂涎欲滴的贪婪的兄弟们全都杀光了，老像是用轻蔑的目光看我村里的家伙们也是、把我硬塞到这种无可救药的村子和人家里的镇上的家伙们也是、说到底把这种镇子和村子放置不管的无能之辈治理的国家中的家伙们也是全部杀得七零八落，全部消灭殆尽后我终于找到了活出自己的生存方式！什么都是不需要的啊。无论什么都只是烦人罢了啊。我已经完满了啊。并不是没拥有过。是不曾需要过啊。强加于人的混 蛋渣滓们，我什么都不需要啊。明明如此还要给我什么的话，言外之意就是说在旁观者看来在你们丫的看来是残缺的不足的可悲的可怜的存在对吧。把强加给我不需要之物的家伙们全部赶尽杀绝，让这世界上只剩对完满的我什么都不说的人就好了。无论哪个家伙都擅自说东说西，混 蛋。哪有谁有可怜我的权利啊。哪有谁有可怜我和让我绝望的权利啊。哪有谁有资格对我做这种事啊。我什么都不需要也不奢求。明明赚钱不多还酗酒又偶尔给我买礼物的父亲就是渣滓去死吧。每天每夜满腹牢骚还反复地说麻烦你了抱歉这种理所当然的话的母亲就是渣滓去死吧。虽然对我应得的一份虎视眈眈垂涎欲滴却在我把碗打翻的时候把自己的份分给我的贪婪的兄弟们就是渣滓去死吧。停下吧混 球们，擅自对我温柔什么的。对我温柔什么的是看不起我啊还是瞧不起我啊。瞧不起他人的家伙就是渣滓，岂止他人连家人都瞧不起的家伙们更是不配做人被蔑视也是活该。死也是活该。我没有错。什么错都没有。你们才错了。是你们是你们对我对我对我怜悯同情把我孤立的。自己好好感受一下被当成世界上一番最无可奈何的存在的感觉吧。我的身边只有不会可怜我的家伙就好。把令我被可怜的理由从这个世界上全部消灭就好。我听到笑声了。你们在看着我吧。看着我在笑吧。我有哪里可笑了。你们在看着我的什么笑。无论哪一个都是喋喋不休的、明明什么力量都没有却尽逞口舌之能的渣滓。为什么我非得被这种渣滓弄得如此心碎啊。别站在我面前别阻挠我别可怜我可怜的不是我而是你们丫的啊既无力又无知明明如此还『强欲』！为了满足残缺的自身不得不一辈子爬来爬去的你们丫的才是贪婪得可怜！我可不一样我才不是这样我什么都不求。什么都不求的我比残缺的你们高等。别可怜我。明明实际上在羡慕我嫉妒我憧憬我，却因为遥不可及在这里嘴硬而已。对的吧是这样的吧肯定是这样的吧。等等，等下，等下啊。不要啊。别看着我别叫我的名字别说关于我的话。好话也好坏话也好都停下，别盯着我不放。别我放一边不要管。作为个体完满了的话明明最终心就不会被践踏完事了为什么你们丫的要来接触我啊。根本无法理解啊。你丫跟我完全是陌路人啊。冒着风险寻求回报的赚头什么的不管怎么想都是不合情理不合理的错误的。你们脑子有病。冷静下来想想就应该懂了。我以外所有的人类都只是不明事理的糊涂虫。渴求他人什么的这才是无益的无为的无意义的事情这很好懂的吧。你们丫的死心眼地反反复复说着的爱啊恋啊友情啊信赖啊什么的全部都是幻想啊生殖行为什么的可是最不愉快的事情了。简直莫明其妙。到底为了什么而做啊。即便用伴侣啊孩子啊家人啊之类的言辞粉饰也还是与己无关的存在吧这种家伙是死是活干我何事。那些家伙活着而我死了的话我就结束了。那些家伙死了而我活着的话就只有我存续下去。爱和恋只会让人无法独立。人原本就是孤零零的而已。我顾虑着重视幻想的人而找了伴侣，被别人瞧不起的话就太愚蠢了所以才搜集外表端正的女性，为了不至于被选择的对象背叛（绿了）所以专挑处女，在此之上还要向我索求什么啊。少给我自顾自地说话。侵害我到如此地步，还要向我索求什么。竟然到了这个地步！思想扭曲到这个地步！侵害我到如此地步，还要向我索求什么啊。究竟做到什么地步我才能最终不被怜悯啊。世界上最可怜什么的！想和喜欢的对象结合什么的被卑劣庸俗的『强欲』支配的婊 子所说的怎么可能有道理啊！]]></description>
+            <description><![CDATA[这不可能这不可能这不可能。到底怎么回事啊，莫名其妙啊。为什么我会遭到这种对待啊。把我当成谁了啊。我可是大罪司教『强欲』雷格鲁斯・柯尼亚斯。这个世界上最完满的存在！最为坚定确立的个人！无论身心都毫无动摇因素的存在！　本应如此，为什么我非得遭到这种对待不可啊！开玩笑吧。别开玩笑了。无论哪个家伙都把如此不可理喻的事理所当然地接收着绝对有鬼了不是吗。那个男的也好那个女的也好那个骑士也好我稍微留了点情就恣意妄为，明明我要是认真起来的话他们一开始就粉身碎骨了却还在不自量力不是吗？在我看来为这样滑稽的误解感到羞耻都不值得所以说真讨厌啊和别人扯上关系什么的！烦人的庸俗的客气的可恶的可憎的淫贱的肤浅的愚蠢之徒们。我至今为止都做得这么好啊。多少年来数十年来一百多年来一直如此，做着比谁都忠诚的大罪司教。我最初被魔女因子选中得到这权能时，就把明明赚钱不多还酗酒的父亲和喋喋不休地每天每夜满腹牢骚的母亲和总是对我应得的一份虎视眈眈垂涎欲滴的贪婪的兄弟们全都杀光了，老像是用轻蔑的目光看我村里的家伙们也是、把我硬塞到这种无可救药的村子和人家里的镇上的家伙们也是、说到底把这种镇子和村子放置不管的无能之辈治理的国家中的家伙们也是全部杀得七零八落，全部消灭殆尽后我终于找到了活出自己的生存方式！什么都是不需要的啊。无论什么都只是烦人罢了啊。我已经完满了啊。并不是没拥有过。是不曾需要过啊。强加于人的混 蛋渣滓们，我什么都不需要啊。明明如此还要给我什么的话，言外之意就是说在旁观者看来在你们丫的看来是残缺的不足的可悲的可怜的存在对吧。把强加给我不需要之物的家伙们全部赶尽杀绝，让这世界上只剩对完满的我什么都不说的人就好了。无论哪个家伙都擅自说东说西，混 蛋。哪有谁有可怜我的权利啊。哪有谁有可怜我和让我绝望的权利啊。哪有谁有资格对我做这种事啊。我什么都不需要也不奢求。明明赚钱不多还酗酒又偶尔给我买礼物的父亲就是渣滓去死吧。每天每夜满腹牢骚还反复地说麻烦你了抱歉这种理所当然的话的母亲就是渣滓去死吧。虽然对我应得的一份虎视眈眈垂涎欲滴却在我把碗打翻的时候把自己的份分给我的贪婪的兄弟们就是渣滓去死吧。停下吧混 球们，擅自对我温柔什么的。对我温柔什么的是看不起我啊还是瞧不起我啊。瞧不起他人的家伙就是渣滓，岂止他人连家人都瞧不起的家伙们更是不配做人被蔑视也是活该。死也是活该。我没有错。什么错都没有。你们才错了。是你们是你们对我对我对我怜悯同情把我孤立的。自己好好感受一下被当成世界上一番最无可奈何的存在的感觉吧。我的身边只有不会可怜我的家伙就好。把令我被可怜的理由从这个世界上全部消灭就好。我听到笑声了。你们在看着我吧。看着我在笑吧。我有哪里可笑了。你们在看着我的什么笑。无论哪一个都是喋喋不休的、明明什么力量都没有却尽逞口舌之能的渣滓。为什么我非得被这种渣滓弄得如此心碎啊。别站在我面前别阻挠我别可怜我可怜的不是我而是你们丫的啊既无力又无知明明如此还『强欲』！为了满足残缺的自身不得不一辈子爬来爬去的你们丫的才是贪婪得可怜！我可不一样我才不是这样我什么都不求。什么都不求的我比残缺的你们高等。别可怜我。明明实际上在羡慕我嫉妒我憧憬我，却因为遥不可及在这里嘴硬而已。对的吧是这样的吧肯定是这样的吧。等等，等下，等下啊。不要啊。别看着我别叫我的名字别说关于我的话。好话也好坏话也好都停下，别盯着我不放。别我放一边不要管。作为个体完满了的话明明最终心就不会被践踏完事了为什么你们丫的要来接触我啊。根本无法理解啊。你丫跟我完全是陌路人啊。冒着风险寻求回报的赚头什么的不管怎么想都是不合情理不合理的错误的。你们脑子有病。冷静下来想想就应该懂了。我以外所有的人类都只是不明事理的糊涂虫。渴求他人什么的这才是无益的无为的无意义的事情这很好懂的吧。你们丫的死心眼地反反复复说着的爱啊恋啊友情啊信赖啊什么的全部都是幻想啊生殖行为什么的可是最不愉快的事情了。简直莫明其妙。到底为了什么而做啊。即便用伴侣啊孩子啊家人啊之类的言辞粉饰也还是与己无关的存在吧这种家伙是死是活干我何事。那些家伙活着而我死了的话我就结束了。那些家伙死了而我活着的话就只有我存续下去。爱和恋只会让人无法独立。人原本就是孤零零的而已。我顾虑着重视幻想的人而找了伴侣，被别人瞧不起的话就太愚蠢了所以才搜集外表端正的女性，为了不至于被选择的对象背叛（绿了）所以专挑处女，在此之上还要向我索求什么啊。少给我自顾自地说话。侵害我到如此地步，还要向我索求什么。竟然到了这个地步！思想扭曲到这个地步！侵害我到如此地步，还要向我索求什么啊。究竟做到什么地步我才能最终不被怜悯啊。世界上最可怜什么的！想和喜欢的对象结合什么的被卑劣庸俗的『强欲』支配的婊 子所说的怎么可能有道理啊！]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/59.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/59.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3030,14 +3030,14 @@
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『普利斯特拉保卫战战果1』]]></title>
+            <title><![CDATA[『普利斯提拉保卫战战果1』]]></title>
             <description><![CDATA[「占领着四个方向的控制塔，威胁着都市的卑劣的魔女教徒已经被尽数击破了。在此我宣布，都市已经确保了安全--水门都市保卫战，胜利了！」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/74.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/74.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『普利斯特拉保卫战战果2』]]></title>
+            <title><![CDATA[『普利斯提拉保卫战战果2』]]></title>
             <description><![CDATA[与威尔海姆的交谈完毕，昴的心情得以平静。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/75.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/75.html</guid>
@@ -3080,7 +3080,7 @@
         </item>
         <item>
             <title><![CDATA[『充满贪婪的那些人』]]></title>
-            <description><![CDATA[——以水门都市普利斯特拉为开端的一系列魔女教骚动。]]></description>
+            <description><![CDATA[——以水门都市普利斯提拉为开端的一系列魔女教骚动。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/81.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter050/81.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3137,14 +3137,14 @@
         </item>
         <item>
             <title><![CDATA[『他相应的款待』]]></title>
-            <description><![CDATA[说得略晚了点，如今爱蜜莉娅阵营的指挥部已经从以前罗兹瓦尔那个被烧毁的别邸转移到了梅扎斯领地内的本家。]]></description>
+            <description><![CDATA[说得略晚了点，如今爱蜜莉娅阵营的指挥部已经从以前罗兹瓦尔那个被烧毁的别邸转移到了梅札斯领地内的本家。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/02.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/02.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『少女的牢笼』]]></title>
-            <description><![CDATA[“和老爷（罗兹瓦尔）的协商顺利进行了吗？”]]></description>
+            <description><![CDATA[「和老爷（罗兹瓦尔）的协商顺利进行了吗？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/03.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/03.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3242,7 +3242,7 @@
         </item>
         <item>
             <title><![CDATA[『沙海之王』]]></title>
-            <description><![CDATA[会议全票通过向左分叉口前进，队伍是“非战斗员组”。]]></description>
+            <description><![CDATA[会议全票通过向左分叉口前进，队伍是「非战斗员组」。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/17.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/17.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3263,7 +3263,7 @@
         </item>
         <item>
             <title><![CDATA[『夏乌拉≠贤者=弗琉盖尔』]]></title>
-            <description><![CDATA[——伟大的“大贤人”弗琉盖尔]]></description>
+            <description><![CDATA[——伟大的『大贤人』弗琉盖尔]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/20.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/20.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3277,7 +3277,7 @@
         </item>
         <item>
             <title><![CDATA[『白色星空的群星』]]></title>
-            <description><![CDATA[尤里乌斯甩了甩胳膊，一个人站起来之后径直向“试验”走去。]]></description>
+            <description><![CDATA[尤里乌斯甩了甩胳膊，一个人站起来之后径直向「试验」走去。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/22.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/22.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3543,7 +3543,7 @@
         </item>
         <item>
             <title><![CDATA[『一人份的陽光』]]></title>
-            <description><![CDATA[――『記憶的迴廊』和『路伊・阿尔尼普』。]]></description>
+            <description><![CDATA[――『记忆的回廊』和『路伊・阿尔尼普』。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/60.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/60.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3578,14 +3578,14 @@
         </item>
         <item>
             <title><![CDATA[『第二个、第五个、然后——』]]></title>
-            <description><![CDATA[“————”]]></description>
+            <description><![CDATA[「————」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/65.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/65.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『迈向终焉的第二次机会』]]></title>
-            <description><![CDATA[首先要接受从最初的开始，就发动了【死亡回归】这个现实。]]></description>
+            <description><![CDATA[首先要接受从最初的开始，就发动了『死亡回归』这个现实。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/66.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/66.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3634,7 +3634,8 @@
         </item>
         <item>
             <title><![CDATA[『『ナツキ・スバル』』]]></title>
-            <description><![CDATA[这次的翻译有点特殊，需要提前说明一下。]]></description>
+            <description><![CDATA[这次的翻译有点特殊，需要提前说明一下。
+<br/>]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/73.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/73.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3669,7 +3670,7 @@
         </item>
         <item>
             <title><![CDATA[『四角』]]></title>
-            <description><![CDATA[【——听好了？现在这个塔处于一个非常糟糕的状态。要说有多糟糕，大概就跟玩奥赛罗的时候被取掉了四角的感觉一样】]]></description>
+            <description><![CDATA[「——听好了？现在这个塔处于一个非常糟糕的状态。要说有多糟糕，大概就跟玩奥赛罗的时候被取掉了四角的感觉一样」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/78.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter060/78.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3780,49 +3781,49 @@
         </item>
         <item>
             <title><![CDATA[『Animal Tracking』]]></title>
-            <description><![CDATA[“——听好了，昴，你要明白，自己今后总是处于差一步就会死的状态。”]]></description>
+            <description><![CDATA[「——听好了，昴，你要明白，自己今后总是处于差一步就会死的状态。」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/02.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/02.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『VS 雷姆』]]></title>
-            <description><![CDATA[“——哇，和说的一样。这什么情况，完全不行啊”]]></description>
+            <description><![CDATA[「——哇，和说的一样。这什么情况，完全不行啊」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/03.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/03.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『有勇气的抉择』]]></title>
-            <description><![CDATA[“呜哦！”]]></description>
+            <description><![CDATA[「呜哦！」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/04.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/04.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『男人很艰苦』]]></title>
-            <description><![CDATA[“哇擦————”]]></description>
+            <description><![CDATA[「哇擦————」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/05.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/05.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『遥远的南方之地』]]></title>
-            <description><![CDATA[“哎，你当旅行商人的时候，最为危急的一次经历是怎么样的？”]]></description>
+            <description><![CDATA[「哎，你当旅行商人的时候，最为危急的一次经历是怎么样的？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/06.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/06.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『男人确实辛苦』]]></title>
-            <description><![CDATA[“好痛。”]]></description>
+            <description><![CDATA[「好痛。」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/07.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/07.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『名字』]]></title>
-            <description><![CDATA[“昴真是个努力家呢”]]></description>
+            <description><![CDATA[「昴真是个努力家呢」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/08.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/08.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3843,7 +3844,7 @@
         </item>
         <item>
             <title><![CDATA[『血命之仪』]]></title>
-            <description><![CDATA[“——所说的‘血命之仪”，是什么意思？]]></description>
+            <description><![CDATA[「——所说的『血命之仪』，是什么意思？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/11.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/11.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3871,21 +3872,21 @@
         </item>
         <item>
             <title><![CDATA[『想要守护之物』]]></title>
-            <description><![CDATA[【咚!】]]></description>
+            <description><![CDATA[「咚！」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/15.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/15.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『帝国事况』]]></title>
-            <description><![CDATA[——城郭都市『瓜拉尔』。]]></description>
+            <description><![CDATA[——城塞都市『瓜拉尔』。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/16.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/16.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『悄然接近的凶气』]]></title>
-            <description><![CDATA[【——】]]></description>
+            <description><![CDATA[「——」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/17.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/17.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3906,14 +3907,14 @@
         </item>
         <item>
             <title><![CDATA[『皇帝／商人／菜月・昴』]]></title>
-            <description><![CDATA[――攻陷要塞都市瓜拉尔，这就是阿贝尔的下一个目标。]]></description>
+            <description><![CDATA[――攻陷城塞都市瓜拉尔，这就是阿贝尔的下一个目标。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/20.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/20.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『槜克尔・奥斯曼』]]></title>
-            <description><![CDATA[――佛拉基亚帝国二将、槜克尔・奥斯曼以『女奴』这个外号而闻名。]]></description>
+            <title><![CDATA[『兹克尔・奥斯曼』]]></title>
+            <description><![CDATA[――佛拉基亚帝国二将、兹克尔・奥斯曼以『女奴』这个外号而闻名。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/21.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/21.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3927,7 +3928,7 @@
         </item>
         <item>
             <title><![CDATA[『乐士夏美・施瓦茨』]]></title>
-            <description><![CDATA[【——】]]></description>
+            <description><![CDATA[「——」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/23.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/23.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3955,7 +3956,7 @@
         </item>
         <item>
             <title><![CDATA[『英才与庸才』]]></title>
-            <description><![CDATA[『只要还活着，就会有雪耻的机会。可一旦死了，就全都完了。所以，我会选择活着。没有胜算的战斗，我是不会打的』]]></description>
+            <description><![CDATA[「只要还活着，就会有雪耻的机会。可一旦死了，就全都完了。所以，我会选择活着。没有胜算的战斗，我是不会打的」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/27.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/27.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3968,8 +3969,8 @@
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『每个人的立场』]]></title>
-            <description><![CDATA[――夺回王位的胜利条件、即确保得到『『九神将』』的数量优势。]]></description>
+            <title><![CDATA[『各自的处世法』]]></title>
+            <description><![CDATA[——夺回帝位的胜利条件，是『九神将』的确保。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/29.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/29.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -3982,7 +3983,7 @@
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『同乡的对话』]]></title>
+            <title><![CDATA[『与老乡的谈心』]]></title>
             <description><![CDATA[肩膀被强有力的手臂抓住，昴转过头，睁大了眼睛。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/31.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter070/31.html</guid>
@@ -4109,7 +4110,7 @@
         </item>
         <item>
             <title><![CDATA[『——两个月』]]></title>
-            <description><![CDATA[——卡拉拉奇城邦是西方的一个大国，与北部的古斯提科圣王国、南部的博拉奇亚帝国以及东部的露格尼卡王国并称为四大王国。但其建国历程同其他三国相比要来的独特得多。]]></description>
+            <description><![CDATA[——卡拉拉基城邦是西方的一个大国，与北部的古斯提科圣王国、南部的佛拉基亚帝国以及东部的露格尼卡王国并称为四大王国。但其建国历程同其他三国相比要来的独特得多。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/if/06/01.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/if/06/01.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -4165,7 +4166,7 @@
         </item>
         <item>
             <title><![CDATA[『鬼的幸福』]]></title>
-            <description><![CDATA[“怎，怎么会.......这样，骗人的吧！？”]]></description>
+            <description><![CDATA[「怎，怎么会.......这样，骗人的吧！？」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/if/07.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/if/07.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -4193,7 +4194,7 @@
         </item>
         <item>
             <title><![CDATA[『Fortune・节分霍洛』]]></title>
-            <description><![CDATA[※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※ ※]]></description>
+            <description><![CDATA[「フォーチュン・セツブンホロゥ」标题注：]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/if/11.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/if/11.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -4221,7 +4222,7 @@
         </item>
         <item>
             <title><![CDATA[『学院 Re：0！第四堂课！』]]></title>
-            <description><![CDATA[【呐——天亮了吧？快起来吧—— !】]]></description>
+            <description><![CDATA[「呐——天亮了吧？快起来吧—— !」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/if/15.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/if/15.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -4304,14 +4305,14 @@
         </item>
         <item>
             <title><![CDATA[『法兰黛莉卡和佩特拉的、女仆小姐日子Ⅱ』]]></title>
-            <description><![CDATA[法兰黛莉卡・鲍曼自十一岁起，便在罗兹瓦尔・L・梅扎斯边境伯的名下作为女仆工作。]]></description>
+            <description><![CDATA[法兰黛莉卡・鲍曼自十一岁起，便在罗兹瓦尔・L・梅札斯边境伯的名下作为女仆工作。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/special/11.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/special/11.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『加菲尔和拉姆、乖僻别扭的恋爱』]]></title>
-            <description><![CDATA[拉姆毕生的主人罗兹瓦尔・L・梅萨斯边境伯的领地的最北方是被称作『克雷马尔蒂的迷之森林』的土地。]]></description>
+            <description><![CDATA[拉姆毕生的主人罗兹瓦尔・L・梅札斯边境伯的领地的最北方是被称作『克雷马尔蒂的迷之森林』的土地。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/special/12.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/special/12.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -4423,14 +4424,14 @@
         </item>
         <item>
             <title><![CDATA[『Memory Snow 前日谈莉雅 Days』]]></title>
-            <description><![CDATA[“唔，唔，这很不妙啊”]]></description>
+            <description><![CDATA[「唔，唔，这很不妙啊」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/special/28.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/special/28.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
             <title><![CDATA[『冰结之绊 前日谈冰结的日常』]]></title>
-            <description><![CDATA[“最近的爱蜜莉娅大人，比以前学习更加集中了呢”]]></description>
+            <description><![CDATA[「最近的爱蜜莉娅大人，比以前学习更加集中了呢」]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/special/29.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/special/29.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -4524,7 +4525,7 @@
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
         </item>
         <item>
-            <title><![CDATA[『对 E・M・T 献上情歌』]]></title>
+            <title><![CDATA[『对 Ｅ・Ｍ・Ｔ 献上情歌』]]></title>
             <description><![CDATA[──事情是发生在宅邸杂务告一段落的午后时光。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/short02/01.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/short02/01.html</guid>
@@ -4627,7 +4628,7 @@
         </item>
         <item>
             <title><![CDATA[『剑鬼恋歌　二幕』]]></title>
-            <description><![CDATA[对威尔海姆・托利亚斯来说，世界的组成极为简单。]]></description>
+            <description><![CDATA[对威尔海姆・特利亚斯来说，世界的组成极为简单。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/short04/02.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/short04/02.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
@@ -4669,7 +4670,7 @@
         </item>
         <item>
             <title><![CDATA[『剑鬼恋歌　幕间』]]></title>
-            <description><![CDATA[卡萝・雷玫迪斯第一次遇到特蕾希雅，是在十四岁的时候。]]></description>
+            <description><![CDATA[卡萝・雷玫迪斯第一次遇到特蕾西亚，是在十四岁的时候。]]></description>
             <link>https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/short04/08.html</link>
             <guid isPermaLink="true">https://git.mhy9989.top/re0-web/gitbook/book/markdown/ch/chapter099/short04/08.html</guid>
             <dc:creator><![CDATA[mhy9989]]></dc:creator>
