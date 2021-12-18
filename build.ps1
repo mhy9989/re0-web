@@ -28,8 +28,7 @@ mv gitbook/_book gitbook/book
 Start-Sleep 1
 
 Write-Output "Remove *.md..."
-Remove-Item gitbook/book/markdown/ch -Include *.md -Recurse
-Remove-Item gitbook/book/markdown/character.md -Recurse
+Remove-Item gitbook/book -Include *.md -Recurse
 Start-Sleep 1
 
 Write-Output "Remove gitbook/node_modules ..."
